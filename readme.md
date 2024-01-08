@@ -1,2 +1,3 @@
 # Task Manager
-Simple task manager written in C.
+
+Simple terminal task manager written in C.
